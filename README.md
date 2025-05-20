@@ -1,8 +1,8 @@
-<p align="center">
+<!--<p align="center">
     <img src="https://media2.giphy.com/media/v1.2lkPTc5MGI3NjExc3BzbGJhcHNkMnFucjd6bmdkNWxtajQ4djZxM3czem5yeDk0MHJkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif"/>
-</p>
+</p>-->
 
-<h1 align="center">I'm Thiago!</h1>
+<h1 align="center">Hello there, I'm Thiago!</h1>
 
 <p align="center">
   Software Engineer &nbsp;|&nbsp; Full Stack Developer
