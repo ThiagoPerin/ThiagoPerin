@@ -58,7 +58,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThiagoPerin&show_icons=true&theme=radical&count_private=false" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThiagoPerin&show_icons=true&theme=radical&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPerin&layout=compact&langs_count=6&theme=radical" />
 </p>
 
