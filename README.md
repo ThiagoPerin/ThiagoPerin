@@ -48,7 +48,7 @@
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
